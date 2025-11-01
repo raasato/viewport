@@ -75,8 +75,6 @@ table {
     line-height: 1.35;
 }
 
-
-
 /* ----- CHECK FOR USER DARK MODE PREFERENCE ----- */
 /* --------------- BEGIN USER PREFERS DARK COLOR SCHEME QUERY --------------- */
 
@@ -88,8 +86,6 @@ table {
 }
 
 /* --------------- END USER PREFERS DARK COLOR SCHEME QUERY --------------- */
-
-
 
 /* ----- HEADINGS ----- */
 h1, h2, h3, h4{
